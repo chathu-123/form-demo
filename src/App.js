@@ -38,7 +38,7 @@ function App() {
       <br></br><br></br>
       <button type="submit">Submit</button>
       </form>
-      <h2>Hello, {name} your email is {email} your contact no is {contact}</h2>
+      <h2>Hello, {name} your email is {email}</h2>
     </div>
   );
 }
